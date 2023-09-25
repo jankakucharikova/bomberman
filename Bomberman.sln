@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bomberman", "Bomberman.csproj", "{374E2C89-6751-45AA-A755-D7D87621BED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{374E2C89-6751-45AA-A755-D7D87621BED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374E2C89-6751-45AA-A755-D7D87621BED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374E2C89-6751-45AA-A755-D7D87621BED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374E2C89-6751-45AA-A755-D7D87621BED5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ACF45A1-0DC2-48C6-9B67-CFEAE4DB9E83}
+	EndGlobalSection
+EndGlobal
